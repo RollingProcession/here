@@ -1,0 +1,11 @@
+.body {
+   background-image:url('https://static.runoob.com/images/mix/gradient2.png');
+   background-repeat:repeat-x;
+}
+#Bigtitle > th > a{
+   text-align:center;
+   font-weight:bold;
+}
+#myAlert{
+   text-align:center;
+}
